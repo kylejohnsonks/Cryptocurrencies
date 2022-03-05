@@ -25,6 +25,10 @@ An elbow curve was created to find the best value K-Mean clusters.
 - Based on the graph aboe, the model was run using k=4
 - Clusters are predicted from the model
 - A dataframe is created with the coin informatino, PCA vectors and predicted clusters
-- The dataframe is plotted as a 3d scatter
+- The dataframe is plotted as a 3d scatter using the PCA vectors as axes
 
 <img src="Resources/3d.png" width ="600px" />
+
+Finally a 2d plot of Coins Mined and Coin Supply with the predicted classes is shown.
+
+<img src="Resources/Scatter.png" width ="600px" />
